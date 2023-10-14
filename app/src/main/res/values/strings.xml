@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoSell</string>
+    <string name="website_link">https://gosell.store/home</string>
+    <string name="home_link">https://gosell.store/home</string>
+
+    <string name="contact_link"> https://gosell.store/seller/orders/list/pending</string>
+    <string name="faqs_link">https://gosell.store/seller/pos</string>
+
+</resources>
